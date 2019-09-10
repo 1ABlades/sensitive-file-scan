@@ -21,4 +21,4 @@ def file_scan(url):
         
 
 if __name__ == '__main__':
-    file_scan("http://206.189.66.152/")
+    file_scan("http://127.0.0.1/")
